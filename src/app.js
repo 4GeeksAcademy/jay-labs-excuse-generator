@@ -34,7 +34,7 @@ let what = [
 let when = [
   "on Christmas Eve",
   "whilst a hot pocket was being microwaved",
-  "during the guitar solo in Hanson's breakaway hit MmmBop",
+  "during the vocal peak in Hanson's breakaway hit MmmBop",
   "while I was in the bathroom",
   "while I was completing my excuse generator project",
   "during a barbershop quartet rendition of a Skrillex dubstep song"

@@ -1,5 +1,16 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
 body {
-  background-color: #444444;
+  background-color: #333333;
+}
+
+h1 {
+  color: #880000;
+  font-weight: 400;
+}
+
+img {
+  width: 30%;
+  border: 0px;
+  padding: 0px;
 }
